@@ -1,0 +1,26 @@
+Save ids -> Games(0), SpecificGame(1 + UID)
+Saved like this
+
+{
+    'games': [
+        {
+            "name": "Juego1",
+            "players": [
+                "pablo",
+                "anna"
+            ],
+            "places": [
+                "pablo",
+                "anna"
+            ],
+            "weapons": [
+                "pablo",
+                "anna"
+            ],
+            "id": "UUID4"
+        },
+        {
+            etc
+        }
+    ]
+}
